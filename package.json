@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhiizadorozhnyi.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://serhiizadorozhnyi.github.io/goit-react-hw-04-hooks-feedback/",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
