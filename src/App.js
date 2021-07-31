@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import FeedbackOptions from 'components/feedback/feedback';
 import FeedbackOptions from 'components/feedbackOptions/FeedbackOptions';
 import Section from 'components/section/Section';
 import Statistics from 'components/statistics/Statistics';
@@ -10,13 +9,6 @@ function App() {
   const [good, setGood] = useState(0);
   const [neutral, setNeutral] = useState(0);
   const [bad, setBad] = useState(0);
-  
-  // class App extends Component {
-  //   state = {
-  //       good: 0,
-  //       neutral: 0,
-  //       bad: 0
-  //   };
 
   const addFeedback = (review) => {
     switch (review) {
